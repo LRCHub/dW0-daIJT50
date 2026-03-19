@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "Father Time",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-03-19T17:59:00.648966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/01_Father_Time_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/02_Father_Time_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/03_Father_Time_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Father Time - Live",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/04_Father_Time_-_Live_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Blind Melon",
+      "has_synced": true,
+      "path": "select/05_Father_Time_Blind_Melon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Sammy Hagar feat. The Circle",
+      "has_synced": true,
+      "path": "select/06_Father_Time_Sammy_Hagar_feat._The_Circle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Sammy Hagar & The Circle",
+      "has_synced": true,
+      "path": "select/07_Father_Time_Sammy_Hagar_&_The_Circle.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Father Time (Acoustic)",
+      "artist": "Sammy Hagar feat. The Circle",
+      "has_synced": true,
+      "path": "select/08_Father_Time_(Acoustic)_Sammy_Hagar_feat._The_Circle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Father Time (acoustic)",
+      "artist": "Sammy Hagar & The Circle",
+      "has_synced": true,
+      "path": "select/09_Father_Time_(acoustic)_Sammy_Hagar_&_The_Circle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Father Time (feat. Sampha)",
+      "artist": "Kendrick Lamar feat. Sampha",
+      "has_synced": true,
+      "path": "select/10_Father_Time_(feat._Sampha)_Kendrick_Lamar_feat._Sampha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/11_Father_Time_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Kendrick Lamar ft. Sampha",
+      "has_synced": true,
+      "path": "select/12_Father_Time_Kendrick_Lamar_ft._Sampha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Richie Sambora",
+      "has_synced": false,
+      "path": "select/13_Father_Time_Richie_Sambora.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Father Time (feat. Sampha)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/14_Father_Time_(feat._Sampha)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Kendrick Lamar; Sampha",
+      "has_synced": true,
+      "path": "select/15_Father_Time_Kendrick_Lamar;_Sampha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Lloyd Banks",
+      "has_synced": true,
+      "path": "select/16_Father_Time_Lloyd_Banks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Father Time (feat. Sampha)",
+      "artist": "Kendrick Lamar/Sampha",
+      "has_synced": true,
+      "path": "select/17_Father_Time_(feat._Sampha)_Kendrick_Lamar_Sampha.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Father Time",
+      "artist": "Kendrick Lamar feat. Sampha",
+      "has_synced": true,
+      "path": "select/18_Father_Time_Kendrick_Lamar_feat._Sampha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Father Time",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_Father_Time_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Father Time",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/localdb_01_Father_Time_Kendrick_Lamar.lrc",
+      "repo_name": "_IuAIp46xC4"
+    }
+  ]
+}
